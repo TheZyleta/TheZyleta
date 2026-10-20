@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
-<h3 align="center">Aspiring programmer on a journey of continuous learning and growth. 💻✨ Join me as I turn ideas into code and explore the world of technology.</h3>
+<h3 align="center">I do tech stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezyleta&label=Profile%20views&color=0e75b6&style=flat" alt="thezyleta" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
-
-- 🌱 I’m currently learning **TypeScript, React**
+- 🔭 I’m currently working on **Automated server build**
 
 - 📫 How to reach me **Kryst723@gmail.com**
 
